@@ -9,7 +9,7 @@ import seaborn as sns
 print("Ruta de trabajo actual:", os.getcwd())
 
 # Ruta al directorio donde están los archivos CSV
-directorio_data = 'dataSetBaseball/'  # Si estás en /home/josejgr27, esta es la ruta relativa
+directorio_data = 'dataSetBaseball/'  
 
 # Lista de nombres de archivos CSV que quieres cargar
 archivos = [
